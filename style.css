@@ -31,3 +31,12 @@ ul{
     text-align: center;
     background-color: cornsilk;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: khaki;
+    text-align: center;
+    padding: 10px;
+}
